@@ -118,6 +118,14 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 
 ![download](https://github.com/user-attachments/assets/dd0447a2-e498-4e20-8a4d-0052832154df)
 
+## Manual Calculation
+![WhatsApp Image 2025-04-12 at 15 44 49_c643df80](https://github.com/user-attachments/assets/580b9474-4331-49f0-b05e-35b1d690ef4e)
+
+![WhatsApp Image 2025-04-12 at 15 44 50_e34405f5](https://github.com/user-attachments/assets/ee749000-94fa-4178-9195-9ba92c6caffb)
+
+![WhatsApp Image 2025-04-12 at 15 44 50_50793d5a](https://github.com/user-attachments/assets/436bd7bc-7e7b-4ca0-b793-af54ca327e56)
+
+
 
 ## Result
 Using linear block codes, errors in transmitted data can be efficiently detected and corrected, improving the reliability of communication systems without significantly increasing the data size.
